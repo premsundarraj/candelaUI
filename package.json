@@ -1,0 +1,22 @@
+{
+  "name": "candelaui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/premsundarraj/candelaUI.git"
+  },
+  "author": "premsundarraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/premsundarraj/candelaUI/issues"
+  },
+  "homepage": "https://github.com/premsundarraj/candelaUI#readme",
+  "dependencies": {
+    "cypress": "^12.17.4"
+  }
+}
